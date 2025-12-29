@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "9d03e3a4"
+  },
+  "about.qmd": {
+    "about.html": "738fdaa7"
+  },
+  "projects/index.qmd": {
+    "index.html": "9f864a52"
+  },
+  "projects/linear-regression.qmd": {
+    "linear-regression.html": "4e1ef3a8"
+  },
+  "notebooks/index.qmd": {
+    "index.html": "c713a47d"
+  },
+  "reports/index.qmd": {
+    "index.html": "2c1dd934"
+  },
+  "notebooks/bowen_linearregression.ipynb": {
+    "bowen_linearregression.html": "3231683a"
+  },
+  "notebooks/linear_regression_demo.ipynb": {
+    "linear_regression_demo.html": "c038e6dc"
+  }
+}

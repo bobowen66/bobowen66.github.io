@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Bowen Jia | Quant & Data Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/index.qmd
+        text: Projects
+      - href: notebooks/index.qmd
+        text: Notebooks
+      - href: reports/index.qmd
+        text: Reports
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    toc: true
+
+
+
+

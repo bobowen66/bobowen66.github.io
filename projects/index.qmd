@@ -1,0 +1,6 @@
+# Projects
+
+这里是我做过的项目（策略 / 建模 / 风控）。点击进入查看完整过程与结果。
+
+- [Linear Regression Project](linear-regression.qmd)
+- Quant Strategies (coming soon)

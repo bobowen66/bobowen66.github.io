@@ -1,0 +1,19 @@
+---
+title: "Linear Regression Project"
+---
+
+## Summary
+- 研究目标：用线性回归分析资产/指数之间的关系  
+- 输出：回归系数、显著性、拟合优度（R²）、诊断图等  
+- 工具：Python / Jupyter / pandas / statsmodels（或 sklearn）
+
+## What I did
+1. 数据清洗与对齐（时间索引、缺失值处理）
+2. 构建特征与目标变量（return / log-return / lag features）
+3. 拟合模型并解释系数
+4. 模型诊断（残差、异方差、离群点等）
+5. 结论与局限性分析
+
+## Links
+- Notebook: [Linear Regression Demo](../notebooks/linear_regression_demo.ipynb)
+- Report PDF: [Regression Report](../reports/linear_regression_report.pdf)

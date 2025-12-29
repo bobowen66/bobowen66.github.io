@@ -1,0 +1,39 @@
+---
+title: "Bowen Jia | Quant & Data Portfolio"
+---
+
+## Hi, I'm Bowen Jia 👋
+
+我在做 **量化策略（Quant Strategies）**、**数据分析与建模**，并把研究过程整理成可复现的作品（代码 + notebook + 报告）。
+
+**Focus:** Quant Research • Risk Engineering • Data Analytics  
+**Tools:** Python • Jupyter • pandas • statsmodels/sklearn • Git/GitHub
+
+---
+
+## Featured Work
+
+### 1) Linear Regression Research
+- 完成回归分析流程：数据对齐 → 特征构建 → 模型拟合 → 诊断分析
+- 输出系数解释、显著性、R²，并写出局限性与失效场景
+
+➡️ **Project page:** [Linear Regression Project](projects/linear-regression.qmd)  
+➡️ **Notebook:** [Linear Regression Demo](notebooks/linear_regression_demo.ipynb)  
+➡️ **Report (PDF):** [Linear Regression Report](reports/linear_regression_report.pdf)
+
+---
+
+### 2) Quant Strategies (Winter Break)
+计划研究路线：
+- Mean reversion / momentum baseline
+- Transaction costs & slippage
+- Walk-forward testing + basic risk controls
+
+➡️ See: [Projects](projects/index.qmd)
+
+---
+
+## Contact
+- GitHub: (add later)
+- LinkedIn: (add later)
+- Email: (add later)
